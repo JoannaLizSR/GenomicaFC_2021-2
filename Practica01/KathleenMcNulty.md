@@ -11,6 +11,8 @@ Entre los años 1943-1946 John Mauchly y J. Presper Eckert construyeron el orden
 
 Kay McNulty y Francis Bilas Spence, junto con Marilyn Wescoff Meltzer, Betty Holberton, Ruth Lichterman Teitelbaum y Jean Jennings Bartik fueron seleccionadas en 1945 para convertirse en las primeras programadoras de este sofisticado ordenador. Inicialmente tenían que elaborar toda la programación en papel y comprobarla después en el ordenador. Se trataba de resolver problemas matemáticos complejos que Kathleen McNulty y sus compañeras debían transformar en operaciones más sencillas para que el ordenador, que no tenía capacidad de almacenamiento, pudiera ejecutarlas secuencialmente. Como autodidactas, al cabo de unos meses, las mujeres programadoras consiguieron reducir a 15 segundos el tiempo de cálculo del ENIAC.
 
+<img src="McNulty.jpg" alt="Kathleen McNulty" style="height: 500px; width:350px;"/>
+
 En 1947 ENIAC fue trasladado al Aberdeen Proving Ground Ballistics Research. Solo tres de las programadoras lo acompañaron: Kathleen McNulty Mauchly Antonelli, Frances Bilas Spence y Ruth Lichterman Teitelbaum.
 
 En 1948 Kathleen McNulty se casó con John Mauchly que falleció en 1980 y, años después, ella contraería segundas nupcias con el fotógrafo Severo Antonelli.
