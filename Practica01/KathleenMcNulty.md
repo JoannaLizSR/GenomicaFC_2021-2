@@ -24,7 +24,7 @@ Kathleen McNulty Mauchly Antonelli fue, al igual que sus otras cinco compañeras
 Kay McNulty falleció el 20 de abril de 2006 en Wyndmoor (Pennsylvania).
 
 
-** Proyectos destacados: **
+**Proyectos destacados:**
 - Fue una de las seis programadoras originales de la computadora ENIAC, la primera computadora digital electrónica de propósito general.
 - Kay escribió artículos sobre los pioneros de ENIAC, daba charlas y conferencias junto a su amiga Jean Jeannings Bartik, así como entrevistas a investigadores y periodistas.
 - McNulty había comenzado a defender públicamente el reconocimiento de Mauchly y Presper Eckert como los co-inventores de la primera computadora electrónica de propósito general y, en 1984, fue solicitada como oradora sobre ENIAC, la historia de la computación y el papel que ella y sus colegas jugaron en el desarrollo de la informática moderna. 
