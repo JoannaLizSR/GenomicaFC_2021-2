@@ -1,2 +1,2 @@
-<img src="KayMcNulty.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="KayMcNulty.jpg" alt="Kathleen McNulty" style="height: 300px; width:300px;"/>
 
