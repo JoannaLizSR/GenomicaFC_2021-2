@@ -1,5 +1,2 @@
-<img src="KayMcNulty.jpg"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 5px;" />
-
+<img src="KayMcNulty.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 
