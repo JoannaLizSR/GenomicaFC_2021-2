@@ -24,9 +24,17 @@ Kathleen McNulty Mauchly Antonelli fue, al igual que sus otras cinco compañeras
 Kay McNulty falleció el 20 de abril de 2006 en Wyndmoor (Pennsylvania).
 
 
-**Proyectos destacados: **
+** Proyectos destacados: **
 - Fue una de las seis programadoras originales de la computadora ENIAC, la primera computadora digital electrónica de propósito general.
 - Kay escribió artículos sobre los pioneros de ENIAC, daba charlas y conferencias junto a su amiga Jean Jeannings Bartik, así como entrevistas a investigadores y periodistas.
 - McNulty había comenzado a defender públicamente el reconocimiento de Mauchly y Presper Eckert como los co-inventores de la primera computadora electrónica de propósito general y, en 1984, fue solicitada como oradora sobre ENIAC, la historia de la computación y el papel que ella y sus colegas jugaron en el desarrollo de la informática moderna. 
 - En 1997, junto a sus cinco compañeras programadoras de la ENIAC –Betty Snyder Holberton, Betty Jean Jennings Bartik, Marlyn Wescoff Meltzer, Ruth Lichterman Teitelbaum y Frances Bilas Spence– fue incluida en el *Women in Technology International Hall of Fame*. Su historia oral fue grabada en 1998 y es parte de un documental sobre los programadores de ENlAC titulado *The Computers*.
 - En honor, en el Condado de Donegal, el Instituto de Tecnología Letterkenny estableció un premio anual para el mejor estudiante de ciencias de la computación, la medalla y premio Kay McNulty.
+
+ ### Referencias:
+ 1. Siglo XX - Kathleen McNulty Mauchly Antonelli. (2016, 15 marzo). Mujeres que hacen historia - Breves Biografías. Recuperado 5 de noviembre de 2021, de https://mujeresquehacenlahistoria.blogspot.com/2016/03/siglo-xx-kathleen-mcnulty-mauchly.html
+ 2. S. (2017, 15 noviembre). Ireland’s Greatest Woman Inventor finalist - Kay McNulty Mauchly Antonelli, first woman computer programmer - Innovation | siliconrepublic.com - Ireland’s Technology News Service. Silicon Republic. Recuperado 5 de noviembre de 2021, de https://www.siliconrepublic.com/innovation/irelands-greatest-woman-inventor-finalist-kay-mcnulty-mauchly-antonelli-first-woman-computer-programmer
+ 3. Stadler, M. M. (2017, 12 octubre). Kathleen R. McNulty (1921–2006). La primera “computer” que quedó obsoleta. Mujeres con ciencia. Recuperado 5 de noviembre de 2021, de https://mujeresconciencia.com/2017/10/12/kathleen-r-mcnulty-1921-2006-la-primera-computer-quedo-obsoleta/
+ 4. Stadler, M. M. (2015, 12 febrero). Kathleen McNulty Mauchly Antonelli, programadora. Mujeres con ciencia. Recuperado 5 de noviembre de 2021, de https://mujeresconciencia.com/2015/02/12/kathleen-mcnulty-mauchly-antonelli-programadora/
+
+ 
