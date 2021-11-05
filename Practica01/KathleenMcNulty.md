@@ -5,7 +5,7 @@ La familia emigró a EEUU en 1924 radicándose en Pennsylvania. Kay, que cuando 
 
 Durante la Segunda Guerra Mundial, el Ejército de los Estados Unidos buscaba a mujeres con estudios de matemáticas para calcular a mano las trayectorias de tiro de las bombas y proyectiles. Poco después de graduarse, Kay fue seleccionada para trabajar en la escuela Moore de Ingeniería de la Universidad de Pensilvania; más de setenta jóvenes mujeres fueron empledas como "ordenadores"; el trabajo era muy tedioso, largas horas haciendo cálculos y ecuaciones diferenciales para saber la trayectoria balística. Muchas de ellas renunciaron, pero decidida y muy inteligente, Kay se convirtió en una de las más destacadas empleadas, aunque nunca dejaron de der todas ellas "simples operadoras".
 
-<img src="KayMcNulty.jpg" alt="Kathleen McNulty" style="height: 500px; width:350px;"/>
+<div align= "center"><img src="KayMcNulty.jpg" alt="Kathleen McNulty" style="height: 500px; width:350px;"/></div>
 
 Entre los años 1943-1946 John Mauchly y J. Presper Eckert construyeron el ordenador electrónico complejo que realizase las mismas funciones que las ejecutadas por el grupo de mujeres matemáticas. Así nació ENIAC (Electronic Numerical Integrator And Computer) que fue instalado en el sótano de la Escuela Moore.
 
