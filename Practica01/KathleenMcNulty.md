@@ -1,2 +1,2 @@
-<img src="KayMcNulty.jpg" alt="Kathleen McNulty" style="height: 300px; width:300px;"/>
+<img src="KayMcNulty.jpg" alt="Kathleen McNulty" style="height: 500px; width:300px;"/>
 
