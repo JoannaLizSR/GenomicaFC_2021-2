@@ -109,6 +109,7 @@ $mv SRR10971381_R1.fastq.gz ./GenomicaComputacional/jsanchez_p03/data/raw_data/
 $mv SRR10971381_R2.fastq.gz ./GenomicaComputacional/jsanchez_p03/data/raw_data/
 
 ## Parte IV.
+
 **Respuesta 1:**
 <br/><br/>
 $ln -s ./data/raw_data/splike_a.faa ./data/filtered/
@@ -116,11 +117,13 @@ $ln -s ./data/raw_data/splike_a.faa ./data/filtered/
 $ln -s ./data/raw_data/splike_b.faa ./data/filtered/
 <br/><br/>
 $ln -s ./data/raw_data/splike_c.faa ./data/filtered/
+
 **Respuesta 2:**
 <br/><br/>
 $cd data/filtered/
 <br/><br/>
 $touch glycoproteins.faa
+
 **Respuesta 3:**
 <br/><br/>
 $head -n 1 ./jsanchez_p03/data/raw_data/splike_a.faa
@@ -128,6 +131,7 @@ $head -n 1 ./jsanchez_p03/data/raw_data/splike_a.faa
 $head -n 1 ./jsanchez_p03/data/raw_data/splike_b.faa
 <br/><br/>
 $head -n 1 ./jsanchez_p03/data/raw_data/splike_c.faa
+
 **Respuesta 4:**
 <br/><br/>
 $cat ./data/raw_data/splike_a.faa >> ./data/filtered/glycoproteins.faa
@@ -142,6 +146,7 @@ $mv ./data/raw_data/splike_*.faa ./archive
 <br/><br/>
 Las ligas simbólicas suaves siguen ahí, sin embargo al intentar abrir el enlace, se presenta en pantalla un mensaje
 diciendo que el enlace no se puede usar porque el directorio ./data/raw_data/splike_*.faa no existe.
+
 **Respuesta 6:**
 <br/><br/>
 $cd data/raw_data/
@@ -149,6 +154,7 @@ $cd data/raw_data/
 $head -3 sarscov2_genome.fasta
 <br/><br/>
 $head -3 sarscov2_assembly.fasta.gz
+
 **Respuesta 7:**
 <br/><br/>
 $grep -o '>' sarscov2_genome.fasta | wc -l
@@ -156,9 +162,11 @@ $grep -o '>' sarscov2_genome.fasta | wc -l
 $grep -o '>' sarscov2_assembly.fasta.gz | wc -l
 <br/><br/>
 Cada archivo tiene un solo header.
+
 **Respuesta 8:**
 <br/><br/>
 $grep -o '@' SRR10971381_R2.fastq.gz | wc -l
+
 **Respuesta 9:**
 <br/><br/>
 El formato .faa es usado por NCBI y hace referencia a aminoácidos.
@@ -166,6 +174,7 @@ El formato .faa es usado por NCBI y hace referencia a aminoácidos.
 El formato .fasta se usa para representar secuencias de ácidos nucleicos.
 <br/><br/>
 El formato .fastq son archivos que contienen los datos de secuencia.
+
 **Respuesta 10:**
 <br/><br/>
 La diferencia entre usar less sarscov2_genome.gff3 y less -S sarscov2_genome.gff3, es que
