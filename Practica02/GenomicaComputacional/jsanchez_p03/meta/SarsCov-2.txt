@@ -1,0 +1,19 @@
+Estructura molecular del SARS-Cov-2
+
+En Enero de 2020, investigadores encontraron el genoma SARS-CoV-2, el cual es
+el virus que provoca la enfermedad conocida como Covid-19. Los primeros
+contagios sucedieron en Wuhan, China en Diciembre de 2019. Actualmente la Covid-19
+es una pandemia que afecta a muchos países de todo el mundo.
+
+SARS-CoV-2 es un virus de ARN perteneciente a la familia de coronavirus, que recibe
+este nombre por la forma de las proteínas de su cubierta. El virión de SARS-CoV-2,
+consiste en una membrana con glicoproteínas dentro de la que se empaqueta el material
+hereditario compactado con proteínas. En la superficie destaca la presencia de la
+proteína S, la cual es una estructura en forma de aguja que tiene un papel relevante
+en la infección.
+
+La infección por coronavirus es causada por la entrada del virus a las células.
+El coronavirus SARS-CoV-2 entra en las células a través de la unión de una proteína
+de su superficie, la proteína S, con el receptor ACE-2 de las células huésped.
+En gereral, el virus SARS-CoV-2 provoca enfermedades gastrointestinales, en el tracto
+respiratorio y en el sistema nervioso central.
